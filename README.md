@@ -19,7 +19,7 @@ User-friendly and intuitive user interface.
 To run this project locally, follow these steps:
 
 Ensure you have Flutter installed on your system. If not, follow the official installation guide: https://flutter.dev/docs/get-started/install
-Clone this repository to your local machine using git clone https://github.com/your-username/rental-car-app.git.
+Clone this repository to your local machine using git clone [https://github.com/your-username/rental-car-app.git](https://github.com/abhijg/CarRental-App-UI).
 Change directory to the project folder using cd rental-car-app.
 Run flutter pub get to install the required dependencies.
 Connect a physical device or start an emulator/simulator.
